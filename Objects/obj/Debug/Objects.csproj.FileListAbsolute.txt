@@ -1,0 +1,6 @@
+C:\Users\roxan\Desktop\WAKE TECH\FALL2018\WEB180VisualStudio\Objects\bin\Debug\Objects.exe.config
+C:\Users\roxan\Desktop\WAKE TECH\FALL2018\WEB180VisualStudio\Objects\bin\Debug\Objects.exe
+C:\Users\roxan\Desktop\WAKE TECH\FALL2018\WEB180VisualStudio\Objects\bin\Debug\Objects.pdb
+C:\Users\roxan\Desktop\WAKE TECH\FALL2018\WEB180VisualStudio\Objects\obj\Debug\Objects.csprojResolveAssemblyReference.cache
+C:\Users\roxan\Desktop\WAKE TECH\FALL2018\WEB180VisualStudio\Objects\obj\Debug\Objects.exe
+C:\Users\roxan\Desktop\WAKE TECH\FALL2018\WEB180VisualStudio\Objects\obj\Debug\Objects.pdb

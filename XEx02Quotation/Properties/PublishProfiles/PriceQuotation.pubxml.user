@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAWaR2VZhhwUOKgLDYU8AsagAAAAACAAAAAAAQZgAAAAEAACAAAADkYWV5DaC6DaHrUrJ/v2wwVmHgdD789kZ6eBGpT46yjAAAAAAOgAAAAAIAACAAAADlU3lqFqZQe7vfRuaQ44ePqfvK0tZdPgGXuTfU6k3IHiAAAAAM9BbD6i1zf4rH/ztagZUiWzZGUq+Ln4yslzg8P5aR0UAAAAB3lca8onAJIDTZHvzpUbweMjT/X8ucpcUDpim+4Fw3D10SB4nb7LPO0X2NoiMX2wfkD2NSjGE6lQt18L9n7MtP</EncryptedPassword>
+    <_PublishTargetUrl>ftp://wcet3.waketech.edu/WEB180even</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>09/16/2018 09:55:36</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>09/16/2018 09:55:36</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>01/25/2018 10:42:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>12/07/2015 19:04:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>03/10/2016 14:26:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>03/09/2016 12:00:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>03/09/2016 11:57:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/XEx02Quotation.dll">
+      <publishTime>09/16/2018 11:05:03</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>09/16/2018 10:53:02</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/16/2018 10:25:08</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.js">
+      <publishTime>09/16/2018 09:55:37</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>09/16/2018 09:55:36</publishTime>
+    </File>
+    <File Include="scripts/jquery-3.3.1.js">
+      <publishTime>09/16/2018 10:25:07</publishTime>
+    </File>
+    <File Include="scripts/jquery-3.3.1.min.js">
+      <publishTime>09/16/2018 10:25:06</publishTime>
+    </File>
+    <File Include="scripts/jquery-3.3.1.min.map">
+      <publishTime>09/16/2018 10:25:06</publishTime>
+    </File>
+    <File Include="scripts/jquery-3.3.1.slim.js">
+      <publishTime>09/16/2018 10:25:06</publishTime>
+    </File>
+    <File Include="scripts/jquery-3.3.1.slim.min.js">
+      <publishTime>09/16/2018 10:25:06</publishTime>
+    </File>
+    <File Include="scripts/jquery-3.3.1.slim.min.map">
+      <publishTime>09/16/2018 10:25:06</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/16/2018 11:05:04</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA8qL2B0z0HECUDZ/nznm60gAAAAACAAAAAAAQZgAAAAEAACAAAACMvr15kY7Nq17ByG8XXKB2jqhXElFmXA3DXXWVRHflzQAAAAAOgAAAAAIAACAAAABEMXc568cSly1yEQUw9YeWLrKOcfyNaWMHnVJwLEVViiAAAADWMFGWfuGxuzmsmjMW80t73/F2VuOMxD/Qq5DNyPKX4UAAAAAAFynNRtJatll/D9x0eM/00oa310Zv3Stir4b6+wncrJwOyzfx0JfvC31RSjTkzV+OYz+0TN/un/A9T8/ZHgO2</EncryptedPassword>
+    <_PublishTargetUrl>ftp://wcet3.waketech.edu/WEB180even</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/Halloween.mdf">
+      <publishTime>11/12/2018 12:42:27</publishTime>
+    </File>
+    <File Include="App_Data/Halloween_log.ldf">
+      <publishTime>11/12/2018 12:42:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>11/12/2018 10:56:33</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>11/12/2018 10:56:33</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>11/12/2018 10:56:33</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>11/12/2018 10:56:33</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="bin/XEx16ProductList.dll">
+      <publishTime>11/12/2018 12:35:33</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css.map">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Content/site.css">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>11/12/2018 12:41:13</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Images/banner.jpg">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Images/Products/arm1.jpg">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Images/Products/blacklight1.jpg">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Images/Products/cat1.jpg">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Images/Products/cool1.jpg">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Images/Products/fog1.jpg">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Images/Products/fogjuice1.jpg">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Images/Products/frank1.jpg">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Images/Products/freddy1.jpg">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Images/Products/head1.jpg">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Images/Products/head2.jpg">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Images/Products/hippie1.jpg">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Images/Products/jarjar1.jpg">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Images/Products/martian1.jpg">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Images/Products/mummy1.jpg">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Images/Products/powers1.jpg">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Images/Products/rat1.jpg">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Images/Products/rat2.jpg">
+      <publishTime>11/12/2018 10:56:35</publishTime>
+    </File>
+    <File Include="Images/Products/skel1.jpg">
+      <publishTime>11/12/2018 10:56:35</publishTime>
+    </File>
+    <File Include="Images/Products/skullfog1.jpg">
+      <publishTime>11/12/2018 10:56:35</publishTime>
+    </File>
+    <File Include="Images/Products/strobe1.jpg">
+      <publishTime>11/12/2018 10:56:35</publishTime>
+    </File>
+    <File Include="Images/Products/superman1.jpg">
+      <publishTime>11/12/2018 10:56:35</publishTime>
+    </File>
+    <File Include="Images/Products/tlm1.jpg">
+      <publishTime>11/12/2018 10:56:35</publishTime>
+    </File>
+    <File Include="Images/Products/vader1.jpg">
+      <publishTime>11/12/2018 10:56:35</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>11/12/2018 10:56:34</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>11/12/2018 10:56:35</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>11/12/2018 10:56:35</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>11/12/2018 10:56:35</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>11/12/2018 10:56:35</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>11/12/2018 10:56:35</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/12/2018 12:35:35</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

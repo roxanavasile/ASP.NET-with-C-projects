@@ -1,0 +1,3 @@
+F:\Classes\WEB180\2017\aspnet46_cs\Instructors\Extra exercises\exercises_extra\Coding05-4-Start\XEx04Quotation\obj\Debug\Coding05-4-Start.csprojResolveAssemblyReference.cache
+F:\Classes\WEB180\2017\aspnet46_cs\Instructors\Extra exercises\exercises_extra\Coding05-4-Start\XEx04Quotation\obj\Debug\XEx04Quotation.dll
+F:\Classes\WEB180\2017\aspnet46_cs\Instructors\Extra exercises\exercises_extra\Coding05-4-Start\XEx04Quotation\obj\Debug\XEx04Quotation.pdb

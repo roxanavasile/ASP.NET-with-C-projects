@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA8qL2B0z0HECUDZ/nznm60gAAAAACAAAAAAAQZgAAAAEAACAAAAB/zEWv6/pUDiDKfyzmuk+fw0OGCVA+plcWEpLQFR8eSwAAAAAOgAAAAAIAACAAAABWRx92FH7cW/DdL74M5G1orPNCeRVOM7/YK9pmXfF0VCAAAAAoMPuw2F57U0h2NJZVCi6wMDtE8cKRY72fSe+xL4OIekAAAADboJLGUKNrZzLktCeyfxu9hlEH7toyw4+85EP5I6Soqk+LMDXLniquxQhnGlDkXQsomzqsc79zS3PQW7Riqhk8</EncryptedPassword>
+    <_PublishTargetUrl>ftp://wcet3.waketech.edu/WEB180even</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/Halloween.mdf">
+      <publishTime>10/27/2018 14:09:31</publishTime>
+    </File>
+    <File Include="App_Data/Halloween_log.ldf">
+      <publishTime>10/27/2018 14:09:31</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>10/27/2018 13:44:33</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>10/27/2018 13:44:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>10/27/2018 13:44:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>10/27/2018 13:44:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>10/27/2018 13:44:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>10/27/2018 13:44:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>10/27/2018 13:44:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>10/27/2018 13:44:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>10/27/2018 13:44:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>10/27/2018 13:44:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>10/27/2018 13:44:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>10/27/2018 13:44:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>10/27/2018 13:44:35</publishTime>
+    </File>
+    <File Include="bin/XEx13ProductList.dll">
+      <publishTime>10/27/2018 14:09:31</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>10/27/2018 13:44:35</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>10/27/2018 13:44:35</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>10/27/2018 13:44:35</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css.map">
+      <publishTime>10/27/2018 13:44:35</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>10/27/2018 13:44:35</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>10/27/2018 13:44:35</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>10/27/2018 13:44:35</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>10/27/2018 13:44:35</publishTime>
+    </File>
+    <File Include="Content/site.css">
+      <publishTime>10/27/2018 13:44:35</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>10/27/2018 14:02:44</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>10/27/2018 13:44:35</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>10/27/2018 13:44:35</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>10/27/2018 13:44:35</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>10/27/2018 13:44:35</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>10/27/2018 13:44:35</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>10/27/2018 13:44:35</publishTime>
+    </File>
+    <File Include="Images/banner.jpg">
+      <publishTime>10/27/2018 13:44:35</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/27/2018 13:44:35</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>10/27/2018 13:44:36</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>10/27/2018 13:44:36</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>10/27/2018 13:44:36</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>10/27/2018 13:44:36</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>10/27/2018 13:44:36</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/27/2018 14:09:32</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
